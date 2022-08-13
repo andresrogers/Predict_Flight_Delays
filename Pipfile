@@ -11,6 +11,9 @@ numpy = "*"
 seaborn = "*"
 
 [dev-packages]
+pre-commit = "*"
+black = {extras = ["jupyter"], version = "*"}
+nbqa = "*"
 
 [requires]
 python_version = "3.10"
