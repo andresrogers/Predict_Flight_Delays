@@ -31,7 +31,5 @@ repos:
         args: [--py36-plus]
       - id: nbqa-isort
       - id: nbqa-flake8
-      - id: nbqa-mypy
-      - id: nbqa-pylint
       - id: nbqa-pyupgrade
       - id: nbqa-autopep8
