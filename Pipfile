@@ -9,6 +9,7 @@ pandas = "*"
 sklearn = "*"
 numpy = "*"
 seaborn = "*"
+holidays = "*"
 
 [dev-packages]
 pre-commit = "*"
