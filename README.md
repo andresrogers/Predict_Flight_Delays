@@ -25,6 +25,9 @@ When using the full dataset, the *weighted F-1 score* increased to 0.77, and aft
 To install the necessary packages, the virtual environment must be set up with:
 
 > pipenv shell
+
 > pipenv install
 
 After that, you should open the notebook and point the kernel to the new activated virtual environment.
+
+Cells can be re-run, but the latest output was saved to show the final results and plots.
